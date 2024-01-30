@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MUGABE Robertson
+- 👋 Holla, I’m MUGABE Robertson
 - 👀 I’m interested in Creating solutions for Real world problems
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Front and Back end
