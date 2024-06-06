@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert MUGABE</h1>
+<h1 align="center">Hi 👋, I'm Robertson MUGABE</h1>
 <h3 align="center">A passionate Software Engineer from Kigali, Rwanda</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mugabe-rob" alt="mugabe-rob" /></a> </p>
@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **mugaberoberto007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t082joj1W4JgTmnFmny4NKgNN-KT8thb/view?usp=sharing](https://drive.google.com/file/d/1t082joj1W4JgTmnFmny4NKgNN-KT8thb/view?usp=sharing)
-
-- ⚡ Fun fact **I think i am strict and funny**
+- ⚡ Fun fact **I think i am calm and funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
