@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/mugaberobertson" target="blank"><img src="https://img.shields.io/twitter/follow/mugaberobertson?logo=twitter&style=for-the-badge" alt="mugaberobertson" /></a> </p>
 
-- 🔭 I’m currently working on [volunteerfit](https://github.com/mugabe-rob/volunteer)
+-🔭 I’m currently developing VolunteerFit, a platform for connecting volunteers with impactful projects.
 
-- 🌱 I’m currently learning **Software Engineering**
+-🌱 I’m diving deep into Software Engineering and expanding my skills every day.
 
-- 👯 I’m looking to collaborate on [medixr](https://github.com/mugabe-rob/volunteer)
+-👯 I’m open to collaborating on innovative health tech projects, like MediXR.
 
-- 💬 Ask me about **react, vue and Javascript**
+-💬 I’m always up for discussions about React, Vue, and JavaScript—let's geek out on frontend tech!
 
-- 📫 How to reach me **mugaberoberto007@gmail.com**
+-📫 You can reach me at mugaberoberto007@gmail.com.
 
-- ⚡ Fun fact **I think i am calm and funny**
+-⚡ Fun fact: I have a calm personality and a good sense of humor (or so I've been told)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
