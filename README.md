@@ -1,15 +1,13 @@
 <h1 align="center">Hello 👋, I'm Robert MUGABE</h1>
-<h3 align="center">A passionate Software Engineer from Kigali, Rwanda</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mugabe-rob" alt="mugabe-rob" /></a> </p>
+<h3 align="center">A passionate Software Engineer based in Kigali, Rwanda</h3>
 
 <p align="left"> <a href="https://twitter.com/mugaberobertson" target="blank"><img src="https://img.shields.io/twitter/follow/mugaberobertson?logo=twitter&style=for-the-badge" alt="mugaberobertson" /></a> </p>
 
--🔭 I’m currently developing VolunteerFit, a platform for connecting volunteers with impactful projects.
+-🔭 I’m currently developing my skills in Backe-end Engineering.
 
 -🌱 I’m diving deep into Software Engineering and expanding my skills every day.
 
--👯 I’m open to collaborating on innovative health tech projects, like MediXR.
+-👯 I’m open to collaborating on innovative projects.
 
 -💬 I’m always up for discussions about React, Vue, and JavaScript—let's geek out on frontend tech!
 
